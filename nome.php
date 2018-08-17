@@ -1,0 +1,2 @@
+<?php 
+$nome = 'José Ronaldo';
